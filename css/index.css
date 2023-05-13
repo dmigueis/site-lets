@@ -6,19 +6,19 @@
   --laranja:  #F58447;
 }
 
-/*@font-face {
+@font-face {
   font-family: 'bebasneue';
   src: url('/fontes/BebasNeue-Regular.ttf');
-}*/
+}
 
-@font-face {
+/*@font-face {
   font-family: 'bebasneue';
   src: url('../fontes/bebasneue-regular-webfont.woff2') format('woff2'),
        url('../fontes/bebasneue-regular-webfont.woff') format('woff'),
        url('../fontes/bebasneue-regular-webfont.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
-}
+}*/
 
 @font-face {
   font-family: 'hagrid';
@@ -40,19 +40,19 @@
   src: url('../fontes/codec-pro-extrabold.ttf');
 }
 
-/*@font-face {
+@font-face {
   font-family: 'hagridEx';
   src: url('/fontes/Hagrid-Text-Extrabold-trial.woff2');
-}*/
+}
 
-@font-face {
+/*@font-face {
   font-family: 'hagridEx';
   src: url('../fontes/hagrid-text-extrabold-trial-webfont.woff2') format('woff2'),
        url('../fontes/hagrid-text-extrabold-trial-webfont.woff') format('woff'),
        url('../fontes/hagrid-text-extrabold-trial-webfont.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
-}
+}*/
 
 @font-face {
   font-family: 'codecUltra';
