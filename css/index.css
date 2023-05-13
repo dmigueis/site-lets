@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: 'bebasneue';
-  src: url('/fontes/BebasNeue-Regular.ttf');
+  src: url('../fontes/BebasNeue-Regular.ttf');
 }
 
 /*@font-face {
@@ -42,7 +42,7 @@
 
 @font-face {
   font-family: 'hagridEx';
-  src: url('/fontes/Hagrid-Text-Extrabold-trial.woff2');
+  src: url('../fontes/Hagrid-Text-Extrabold-trial.woff2');
 }
 
 /*@font-face {
