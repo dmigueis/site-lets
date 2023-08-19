@@ -1,0 +1,129 @@
+----Primeira página----
+Bebas Neue - 22 - HOME | QUEM SOMOS
+Bebas Neue - 19,2 - DESDE 2018
+Hagrid - 57,3 - humana e criativa
+Codec pro extrabold - 17,5 - saiba mais
+
+----Segunda página----
+Bebas Neue - 22 - HOME | QUEM SOMOS
+Aileron Regular - 57,2 - monte a sua
+Bebas Neue - 19,3 - Posicione a sua marca
+Codec pro extrabold - 17,5 - saiba mais
+
+----Terceira página----
+TC Chaddlewood - 35,4 - Nós temos o plano
+Bebas Neue - 22 - HOME | QUEM SOMOS
+Bebas Neue - 31,2 - PLanos mensais a partir de
+Codec pro extrabold - 92,4 - R$ 185,00
+Aileron Regular - 24,9 - A let´s acredita
+Codec pro extrabold - 17,5 - saiba mais
+
+----Quarta página----
+Codec pro extrabold - 40,2 - A let´s é uma
+Codec Pro - 13,8 - A nossa
+
+----Quinta página----
+Aileron Regular - 48 - Conheça os
+Codec Pro - 18 - Aqui você fica
+Aileron Regular - 17 - botões
+
+----Sexta página----
+Codec pro extrabold - 20,5 - trabalhe conosco
+Aileron Regular - 48 - Nossa equipe
+Codec Pro - 18 - Na equipe
+
+----Sétima página----
+Aileron Regular - 48 - Nossas estatísticas
+Hagrid - 49,4 - números
+Hagrid - 19,4 - textos
+
+----Oitava página----
+Aileron Regular - 48 - Ações sustentáveis
+Codec Pro - 18 - Na equipe
+TC Chaddlewood - 22,7 - todos juntos
+
+----Nona página----
+Aileron Regular - 48 - Fale conosco
+Codec Pro - 18 - contatos
+
+----Décima página----
+Bebas Neue - 22 - HOME | QUEM SOMOS
+Aileron Regular - 48 - PLanos e serviços
+Codec Pro - 18 - somos uma agencia
+Codec pro extrabold - 23,4 - serviços let´s
+Aileron Regular - 22 - texto planos
+Codec Pro - 18 - Na equipe
+
+----Décima primeira página----
+Bebas Neue - 22 - HOME | QUEM SOMOS
+Aileron Regular - 48 - PLanos mensais
+Codec Pro - 18 - nossos planos foram
+Codec pro extrabold - 19,1 - botões
+Codec pro extrabold - 16,7 - cabeçalho tabela
+Aileron Regular - 15,7 - criação de imagens
+Aileron Regular - 13 - os serviços podem <b> <i>
+Aileron Regular - 16,7 - última linha (valores e a combinar)
+Aileron Regular - 13 - depende do nicho (a combinar) <i>
+
+----Décima segundo página----
+Bebas Neue - 22 - HOME | QUEM SOMOS
+Aileron Regular - 48 - Estratégia de
+Codec Pro - 18 - receba uma paso a passo
+Codec pro extrabold - 19,1 - botões
+Codec pro extrabold - 23,4 - serviços englobados
+Aileron Regular - 22 - texto serviços
+
+----Décima terceira página----
+Bebas Neue - 22 - HOME | QUEM SOMOS
+Aileron Regular - 48 - Estratégia de
+Codec Pro - 18 - receba uma paso a passo
+Codec pro extrabold - 19,1 - botões
+hagrid - 19,4 - Anuncie sua vaga
+
+
+CORES TEXTO
+
+#FFFFFF - Branco
+#942CB2 - Roxo
+#0D823F - Verde
+#168BA8 - Azul
+#F58447 - Laranja
+
+COR DO FUNDO
+
+----primeira página----
+#FC904D - Laranja
+#942CB2 - Roxo
+#FF914D - #9340FF - botão
+
+----segunda página----
+#942CB2 - Roxo
+#9340FF - Roxo mais claro
+#F58447 - Laranja - fundo texto
+#9340FF - #FF3C5F - botão
+
+----terceira página----
+#168BA8 - Azul
+#66A8AB - Azul mais claro
+#F58447 - Laranja - fundo texto
+#9340FF - #168BA8 - botão
+
+----quarta - quinta - sexta - sétima - nona páginas----
+#FC904D - Laranja
+#942CB2 - roxo - fundo texto quarta página
+#168BA8 - azul - botão sexta ppágina
+
+----oitava página----
+#88CF69 - verde
+
+----Décima - Décima primeira página----
+#F4F0EE - cinza claro
+#FF3C5F - #9340FF - botões
+
+----Décima segunda página----
+#942CB2 - Roxo
+#FF3C5F - #9340FF - botões
+
+----Décima terceira página----
+#168BA8 - Azul
+#FF3C5F - #9340FF - botões
