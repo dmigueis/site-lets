@@ -506,11 +506,11 @@ html{
   padding-left: 40px;
 }
 
-#nossas-estatisticas:hover .estatisticasContent{
+/*#nossas-estatisticas:hover .estatisticasContent{
   animation-name: example;
   animation-duration: 2s;  
   animation-fill-mode: forwards;
-}
+}*/
 
 #nossas-estatisticas h2{
   color: #942CB2;
@@ -5973,6 +5973,7 @@ border-right: none;
 
   #agencia-lets .comunicacao-digital{
     font-size: 25px;
+    width: 350px;
   }
 
   #agencia-lets .desde{
@@ -6757,4 +6758,52 @@ border-right: none;
     margin-top: 20px;
     text-align: center;
   }
+}
+
+.reveal{
+  position: relative;
+  transform: translateY(150px);
+  opacity: 0;
+  transition: 1.2s all ease;
+}
+
+.reveal.active{
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.revealImgDireita{
+  position: relative;
+  transform: translateY(150px);
+  opacity: 0;
+  transition: 1.2s all ease;
+}
+
+.revealImgDireita.active{
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.revealImgEsquerda{
+  position: relative;
+  transform: translateX(-150px);
+  opacity: 0;
+  transition: 1.2s all ease;
+}
+
+.revealImgEsquerda.active{
+  transform: translateX(0);
+  opacity: 1;
+}
+
+.revealWidth{
+  position: relative;
+  transform: translateX(-150px);
+  opacity: 0;
+  transition: 2s all ease;
+}
+
+.revealWidth.active{
+  transform: translateX(0);
+  opacity: 1;
 }

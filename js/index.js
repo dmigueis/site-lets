@@ -32,6 +32,80 @@ function proximaImg(){
     document.getElementById('radio'+cont).checked = true
 }
 
+function reveal() {
+  var reveals = document.querySelectorAll(".reveal");
+
+  for (var i = 0; i < reveals.length; i++) {
+    var windowHeight = window.innerHeight;
+    var elementTop = reveals[i].getBoundingClientRect().top;
+    var elementVisible = 0;
+
+    if (elementTop < windowHeight - elementVisible) {
+      reveals[i].classList.add("active");
+    } else {
+      reveals[i].classList.remove("active");
+    }
+  }
+}
+
+window.addEventListener("scroll", reveal);
+
+function revealWidth() {
+  var reveals = document.querySelectorAll(".revealWidth");
+
+  for (var i = 0; i < reveals.length; i++) {
+    var windowHeight = window.innerWidth;
+    var elementTop = reveals[i].getBoundingClientRect().top;
+    var elementVisible = -200;
+
+    if (elementTop < windowHeight - elementVisible) {
+      reveals[i].classList.add("active");
+    } else {
+      reveals[i].classList.remove("active");
+    }
+  }
+}
+
+window.addEventListener("pageshow", revealWidth);
+
+function revealImgDireita() {
+  var reveals = document.querySelectorAll(".revealImgDireita");
+
+  for (var i = 0; i < reveals.length; i++) {
+    var windowHeight = window.innerHeight;
+    var elementTop = reveals[i].getBoundingClientRect().top;
+    var elementVisible = 150;
+
+    if (elementTop < windowHeight - elementVisible) {
+      reveals[i].classList.add("active");
+    } else {
+      reveals[i].classList.remove("active");
+    }
+  }
+}
+
+window.addEventListener("scroll", revealImgDireita);
+
+function revealImgEsquerda() {
+  var reveals = document.querySelectorAll(".revealImgEsquerda");
+
+  for (var i = 0; i < reveals.length; i++) {
+    var windowHeight = window.innerHeight;
+    var elementTop = reveals[i].getBoundingClientRect().top;
+    var elementVisible = 150;
+
+    if (elementTop < windowHeight - elementVisible) {
+      reveals[i].classList.add("active");
+    } else {
+      reveals[i].classList.remove("active");
+    }
+  }
+}
+
+window.addEventListener("scroll", revealImgEsquerda);
+
+
+
 /*let slides = document.querySelectorAll('.slide-box');
 let index = 0;
 
