@@ -36,15 +36,13 @@ function reveal() {
   var reveals = document.querySelectorAll(".reveal");
 
   for (var i = 0; i < reveals.length; i++) {
-    var windowHeight = window.innerHeight;
+    var windowHeight = window.innerHeight-200;
     var elementTop = reveals[i].getBoundingClientRect().top;
     var elementVisible = 0;
 
     if (elementTop < windowHeight - elementVisible) {
       reveals[i].classList.add("active");
-    } else {
-      reveals[i].classList.remove("active");
-    }
+    } 
   }
 }
 
@@ -60,9 +58,7 @@ function revealWidth() {
 
     if (elementTop < windowHeight - elementVisible) {
       reveals[i].classList.add("active");
-    } else {
-      reveals[i].classList.remove("active");
-    }
+    } 
   }
 }
 
@@ -78,9 +74,7 @@ function revealImgDireita() {
 
     if (elementTop < windowHeight - elementVisible) {
       reveals[i].classList.add("active");
-    } else {
-      reveals[i].classList.remove("active");
-    }
+    } 
   }
 }
 
@@ -96,9 +90,7 @@ function revealImgEsquerda() {
 
     if (elementTop < windowHeight - elementVisible) {
       reveals[i].classList.add("active");
-    } else {
-      reveals[i].classList.remove("active");
-    }
+    } 
   }
 }
 
@@ -114,5 +106,9 @@ function next(){
     index = (index + 1) % slides.length;
     slides[index].classList.add('primeiro');
 }
+
+else {
+      reveals[i].classList.remove("active");
+    }
 
 setInterval(next, 5000);*/
